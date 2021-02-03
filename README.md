@@ -87,6 +87,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+<br>
 ##
 <p align="center">
   <a href="#">
