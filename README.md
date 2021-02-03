@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/banner.png" />
+  <img align="left" alt="Banner" src="https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/banner.png" />
   
   </div>
   .  
@@ -18,7 +18,9 @@
 </div>  
 
 </br>
-
+<div align="left">
+  <p>🎯2021 Goals: Contibuting to Open Source</p>
+</div>
 
 <!--About Me-->
 <div>
