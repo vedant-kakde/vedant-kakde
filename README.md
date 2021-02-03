@@ -165,7 +165,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <p align="center"> 
- <b> Profile count?</b><br>
+ <b> Profile view count:</b><br>
   <img src="https://profile-counter.glitch.me/vedant-kakde/count.svg" />
 </p>
 
