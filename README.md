@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vedant 👨‍🎓
+## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vedant 👨‍🎓
 
 <!--Header-->
   <div>
@@ -19,7 +19,7 @@
 
 </br>
 <div align="left">
-  <p>🎯2021 Goals: Contibuting to Open Source</p>
+  <p>🎯2021 Goals: Contributing to Open Source</p>
 </div>
 
 <!--About Me-->
@@ -32,7 +32,7 @@
 
 ## About Me ✍
  
- I'm <b> Vedant Kakde</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/) under the mentorship of [<b>Dr. Preeti Mishra</b>](http://thecyberzine.com/founder.html). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I'm <b>Vedant Kakde</b>, Sophomore undergraduate pursuing <b>Computer Engineering</b> at [<b>St. Vincent Pallotti College of Engineering and Technology</b>](https://www.stvincentngp.edu.in/).As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I am always passionate about understanding the core concepts behind different popular Technological Fields.
 
 
 </div>
@@ -43,7 +43,13 @@
 
 <img align='left' src='https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/about.png' width="240" height="230" >
 
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
+🔰Languages, Tools and Technologies known: HTML, CSS, Python, C, Linux, AWS, GCP, Ansible, Docker, Kubernetes and many more.
+
+🔰Currently an ARTH Learner - Learning the core concepts behind popular technologies and it's integration like- Big Data Ecosystem | Data Science | Artificial Intelligence | Data Bases | Cloud Computing | DevOps Automation Tools | Programming Languages | Data Structures with Competitive Programming | Operating Systems | Networking and Security | Testing and Troubleshooting and many more.
+
+🔰I also like to write article on various technologies and post videos performing many tasks. Follow me [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Kakde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/)
+
+I am currently a Technical Trainee learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>ARTH-The School of technologies</b>](https://rightarth.com/) of [<b>Linux World Informatics Pvt. Ltd.</b>](https://www.linuxworldindia.org/).
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
