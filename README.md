@@ -11,8 +11,8 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vedant-kakde)
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/) [![GitHub followers](https://img.shields.io/github/followers/vedant-kakde?label=Follow&style=social)](https://github.com/vedant-kakde/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/vedantkakde651/)](https://www.instagram.com/vedantkakde651/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Kakde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/) [![GitHub followers](https://img.shields.io/github/followers/vedant-kakde?label=Follow&style=social)](https://github.com/vedant-kakde/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-vedantkakde651-blue?style=social&logo=Instagram&link=https://www.instagram.com/vedantkakde651/)](https://www.instagram.com/vedantkakde651/) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vedant-kakde.vedant-kakde)
 
 </div>  
