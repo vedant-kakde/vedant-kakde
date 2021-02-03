@@ -49,7 +49,7 @@
 
 🔰I also like to write article on various technologies and post videos performing many tasks. Follow me [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Kakde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/) and stay tuned.
 
-I am currently a Technical Trainee learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>ARTH-The School of technologies</b>](https://rightarth.com/) of [<b>Linux World Informatics Pvt. Ltd.</b>](https://www.linuxworldindia.org/).
+I am currently a Technical Trainee learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga Sir</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the best training program [<b>ARTH-The School of technologies</b>](https://rightarth.com/) of [<b>Linux World Informatics Pvt. Ltd.</b>](https://www.linuxworldindia.org/).
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
