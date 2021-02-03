@@ -47,7 +47,7 @@
 
 🔰Currently an ARTH Learner - Learning the core concepts behind popular technologies and it's integration like- Big Data Ecosystem | Data Science | Artificial Intelligence | Data Bases | Cloud Computing | DevOps Automation Tools | Programming Languages | Data Structures with Competitive Programming | Operating Systems | Networking and Security | Testing and Troubleshooting and many more.
 
-🔰I also like to write article on various technologies and post videos performing many tasks. Follow me [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Kakde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/)
+🔰I also like to write article on various technologies and post videos performing many tasks. Follow me [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Kakde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedant-kakde/)](https://www.linkedin.com/in/vedant-kakde/) and stay tuned.
 
 I am currently a Technical Trainee learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>ARTH-The School of technologies</b>](https://rightarth.com/) of [<b>Linux World Informatics Pvt. Ltd.</b>](https://www.linuxworldindia.org/).
 
