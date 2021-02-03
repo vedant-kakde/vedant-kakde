@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/banner.gif" />
+  <img align="left" alt="GIF" src="https://github.com/vedant-kakde/vedant-kakde/blob/main/assets/banner.png" />
   
   </div>
   .  
