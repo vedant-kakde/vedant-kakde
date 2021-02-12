@@ -124,7 +124,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
-<center>    
+<div align="center">    
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vedant-kakde&show_icons=true&include_all_commits=true&theme=radical" alt="Vedant's github stats" />
 </a>
@@ -134,7 +134,7 @@ but also gives you various benefits which can improve the quality of your life. 
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vedant-kakde&layout=compact&theme=radical" />
 </a>
-</center>
+</div>
 
 
 
