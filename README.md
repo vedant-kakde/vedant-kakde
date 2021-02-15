@@ -175,7 +175,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/hackcoderr/vedant-kakde"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/vedant-kakde"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
