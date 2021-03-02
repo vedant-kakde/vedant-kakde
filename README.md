@@ -19,7 +19,7 @@
 
 </br>
 <div align="left">
-  <p>🎯2021 Goals: Contributing to Open Source</p>
+  <p>🎯2021 Goals: Contributing to Open Source Projects</p>
 </div>
 
 <!--About Me-->
