@@ -3,7 +3,10 @@
 <img align="center" src="assets/github-banner.png">
 
 ## 👨‍💻 About Me
-My name is **Vedant Kakde** and I am a junior pursuing my Bachelor's in Computer Engineering from India 🎓 &nbsp;I am a **Web development, DevOps & Cloud enthusiast** & also passionate about **Open Source** 💻 &nbsp; <br>Believe in **Learning & Empowering Others**
+My name is **Vedant Kakde** and I am a junior pursuing my Bachelor's in Computer Engineering from India 🎓
+<br>I am a **Web development, DevOps & Cloud enthusiast**
+<br>Passionate about **Open Source** 💻
+<br>Believe in **Learning & Empowering Others**
 
 ## 👨🏼‍🤝‍👨🏼 Socials
 
