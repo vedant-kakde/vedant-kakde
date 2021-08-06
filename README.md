@@ -34,6 +34,8 @@ My name is **Vedant Kakde** and I am a junior pursuing my Bachelor's in Computer
 
 ## 💹 GitHub Stats
 
+![](https://activity-graph.herokuapp.com/graph?username=vedant-kakde&theme=react-dark&hide_border=true)
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant-kakde&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
 <img style="margin-left=20px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-kakde&amp;theme=algolia" style="max-width:100%;">
