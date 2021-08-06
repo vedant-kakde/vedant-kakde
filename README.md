@@ -1,12 +1,9 @@
-<h3 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <img align="center" src="assets/github-banner.png">
 
 ## 👨‍💻 About Me
-My name is **Vedant Kakde** and I am a junior pursuing my Bachelor's in Computer Engineering from India 🎓
-<br>I am a **Web development, DevOps & Cloud enthusiast**
-<br>Passionate about **Open Source** 💻
-<br>Believe in **Learning & Empowering Others**
+My name is **Vedant Kakde** and I am a junior pursuing my Bachelor's in Computer Engineering from India. 🎓 &nbsp; I am a **Web development, DevOps & Cloud enthusiast** . &nbsp; Passionate about **Open Source** 💻 &nbsp; Believe in **Learning & Empowering Others**
 
 ## 👨🏼‍🤝‍👨🏼 Socials
 
