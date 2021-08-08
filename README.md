@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <img align="center" src="assets/github-banner-1.png">
 
@@ -32,7 +32,7 @@
 
 </h1>
 
-## 💹 GitHub Stats
+## 📈 GitHub Stats
 
 ![](https://activity-graph.herokuapp.com/graph?username=vedant-kakde&theme=react-dark&hide_border=true)
 
