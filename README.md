@@ -5,6 +5,12 @@
 ## 👨‍💻 About Me
 <p align="center">My name is <b>Vedant Kakde</b> and I am a junior pursuing my Bachelor's in Computer Engineering from India.🎓 I am a <b>Web development, DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> 💻 Believe in <b>Learning & Empowering Others</b></p>
 
+#### What I am currently doing :
+- [Cloud Native Foundations Scholarship Recipient](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) - Learning to apply modern cloud native application development and DevOps principles.
+- [AWS Machine Learning Scholarship Recipient](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) - Learning to apply machine learning techniques and algorithms, including deployment to the AWS production environment.
+- [Google Cloud Career Readiness Student](https://cloud.google.com/edu/career-readiness) - Preparing for Google Cloud Associate Cloud Engineer certification.
+- Also learning Web Development, DevOps & Cloud.
+
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
 <h1 align = "center">
