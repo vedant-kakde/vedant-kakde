@@ -20,10 +20,14 @@
 </a> <a href="https://www.instagram.com/vedantkakde.tech/" target="_blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </h1>
-  
+
+<h1 align= "left">
+  <img src="assets/github-globe.png">
+</h1>
+
 ## 🛠 Languages & Tools 
 
-<h1 align = "center">
+<h1 align = "left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
