@@ -10,6 +10,7 @@
 - [AWS Machine Learning Scholarship Recipient](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) - Learning to apply machine learning techniques and algorithms, including deployment to the AWS production environment.
 - [Google Cloud Career Readiness Student](https://cloud.google.com/edu/career-readiness) - Preparing for Google Cloud Associate Cloud Engineer certification.
 - Also learning Web Development, DevOps & Cloud.
+- Documenting my journey as part of #100DaysofCode & #100DaysOfCloud Challenge [here](https://www.instagram.com/vedantkakde.tech/)
 
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
