@@ -21,10 +21,6 @@
 </a>
 </h1>
 
-<h1 align= "left">
-  <img src="assets/github-globe.png">
-</h1>
-
 ## 🛠 Languages & Tools 
 
 <h1 align = "left">
