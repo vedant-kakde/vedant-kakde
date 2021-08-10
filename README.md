@@ -32,6 +32,13 @@
 
 </h1>
 
+## 📕 Blog Posts
+- [What is Kuberenetes & It's industry usecases ?](https://www.linkedin.com/pulse/what-kubernetes-its-industry-use-cases-vedant-kakde/)
+- [What is Ansible and it's Industry Use cases ?](https://www.linkedin.com/pulse/ansible-its-industry-use-cases-vedant-kakde/)
+- [Cloud Computing, AWS and Ubisoft Case Study](https://www.linkedin.com/pulse/cloud-computing-aws-ubisoft-case-study-vedant-kakde/)
+- [What is Machine Learning(ML), Artificial Intelligence(AI) & Deep Learning(DL)? And what are it's Use cases?](https://www.linkedin.com/pulse/what-machine-learningml-artificial-intelligenceai-deep-vedant-kakde/)
+- [Introduction to Big Data and Hadoop](https://www.linkedin.com/pulse/big-data-vedant-kakde/)
+
 ## 📈 GitHub Stats
 
 ![](https://activity-graph.herokuapp.com/graph?username=vedant-kakde&theme=react-dark&hide_border=true)
