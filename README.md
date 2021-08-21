@@ -1,8 +1,35 @@
+<style>
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Vedant</h1>
 
 <img align="center" src="assets/github-banner-1.png">
 
 ## 👨‍💻 About Me
+<div class="row">
+  <div class="column">
+    <img align="center" src="baracktocat.jpg" height="200px">
+  </div>
+  <div class="column">
+    <p align="center">My name is <b>Vedant Kakde</b> and I am a junior pursuing my Bachelor's in Computer Engineering from India.🎓 I am a <b>Web development, DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> 💻 Believe in <b>Learning & Empowering Others</b>
+  </div>
+</div>
+<br>
 <p align="center">My name is <b>Vedant Kakde</b> and I am a junior pursuing my Bachelor's in Computer Engineering from India.🎓 I am a <b>Web development, DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> 💻 Believe in <b>Learning & Empowering Others</b>
 <br>
 <img align="center" src="baracktocat.jpg" height="200px">
