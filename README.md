@@ -9,6 +9,7 @@
 #### What I am currently doing :
 - [Cloud Native Foundations Scholarship Recipient](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship) - Learning to apply modern cloud native application development and DevOps principles.
 - Documenting my journey as part of #100DaysofCode & #100DaysOfCloud Challenge [here](https://www.instagram.com/vedantkakde.tech/).
+- Preparing for LFCS and CKA certification
 
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
