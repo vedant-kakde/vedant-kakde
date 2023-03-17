@@ -11,7 +11,7 @@
 - Preparing for KCNA certification
 
 ## Certifications :
-- Linux Foundation Certified System Administrator (LFCS)
+- [Linux Foundation Certified System Administrator (LFCS)](https://www.credly.com/badges/a1aa8560-2fde-4526-b46b-18529c5daa25/public_url)
 
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
