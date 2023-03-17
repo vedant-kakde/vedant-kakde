@@ -8,7 +8,10 @@
 
 #### What I am currently doing :
 - Documenting my journey as part of #100DaysofCode & #100DaysOfCloud Challenge [here](https://www.instagram.com/vedantkakde.tech/).
-- Preparing for LFCS and CKA certification
+- Preparing for KCNA certification
+
+## Certifications :
+- Linux Foundation Certified System Administrator (LFCS)
 
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
