@@ -3,7 +3,7 @@
 <img align="center" src="assets/LinkedIN banner (1).png">
 
 ## 👨‍💻 About Me
-|<p align="center">My name is <b>Vedant Kakde</b> and I am a Computer Engineering undergrad from India. <br>🎓 I am a DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> <br>💻 Believe in <b>Learning & Empowering Others</b></p>|<img align="center" src="baracktocat.jpg" width="200px" height="200px"> |
+|<p align="center">My name is <b>Vedant Kakde</b> and I am a Computer Engineering undergrad from India.🎓 <br>I am a <b>DevOps & Cloud enthusiast👨‍💻</b>. Passionate about <b>Open Source</b> <br>💻 Believe in <b>Learning & Empowering Others</b></p>|<img align="center" src="baracktocat.jpg" width="200px" height="200px"> |
 | ------- | -------- |
 
 #### What I am currently doing :
