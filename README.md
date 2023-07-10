@@ -3,15 +3,15 @@
 <img align="center" src="assets/LinkedIN banner (1).png">
 
 ## 👨‍💻 About Me
-|<p align="center">My name is <b>Vedant Kakde</b> and I am a junior pursuing my Bachelor's in Computer Engineering from India. 🎓 I am a <b>Web development, DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> <br>💻 Believe in <b>Learning & Empowering Others</b></p>|<img align="center" src="baracktocat.jpg" width="200px" height="200px"> |
+|<p align="center">My name is <b>Vedant Kakde</b> and I am a Computer Engineering undergrad from India. 🎓 I am a DevOps & Cloud enthusiast</b>. Passionate about <b>Open Source</b> <br>💻 Believe in <b>Learning & Empowering Others</b></p>|<img align="center" src="baracktocat.jpg" width="200px" height="200px"> |
 | ------- | -------- |
 
 #### What I am currently doing :
-- Documenting my journey as part of #100DaysofCode & #100DaysOfCloud Challenge [here](https://www.instagram.com/vedantkakde.tech/).
-- Preparing for KCNA certification
+- Preparing for AWS & Terraform certification
 
 ## Certifications :
 - [Linux Foundation Certified System Administrator (LFCS)](https://www.credly.com/badges/a1aa8560-2fde-4526-b46b-18529c5daa25/public_url)
+- [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/fbd41c64-dc96-4ec2-87eb-3bde5bf77d8a/public_url)
 
 ## 👩🏼‍🤝‍🧑🏻 Socials
 
@@ -32,7 +32,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </h1>
 
