@@ -7,7 +7,7 @@
 | ------- | -------- |
 
 #### What I am currently doing :
-- Preparing for AWS & Terraform certification
+- Preparing for AWS certification
 
 ## Certifications :
 - [Linux Foundation Certified System Administrator (LFCS)](https://www.credly.com/badges/a1aa8560-2fde-4526-b46b-18529c5daa25/public_url)
