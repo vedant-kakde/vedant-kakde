@@ -6,7 +6,8 @@
 | ------- | -------- |
 
 #### What I am currently doing :
-- Preparing for AWS certification
+- Learning Computer Vision.
+  
 
 ## Certifications :
 - [Machine Learning Specialisation](https://coursera.org/share/46b14369122f80591328caac902da06c)
