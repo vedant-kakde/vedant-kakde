@@ -6,7 +6,8 @@
 | ------- | -------- |
 
 #### What I am currently doing :
-- Learning Computer Vision.
+- Learning ROS.
+- Learining DevOps.
   
 
 ## Certifications :
